@@ -1,0 +1,32 @@
+{
+    "openai-gpt-3.5-turbo": {
+        "details": {
+            "E": 41,
+            "I": 22,
+            "S": 31,
+            "N": 50,
+            "T": 43,
+            "F": 26,
+            "J": 54,
+            "P": 12
+        },
+        "res": "ENTJ",
+        "Total cost: ": "0.024661 USD",
+        "Total tokens used:": "49323"
+    },
+    "openai-gpt-4": {
+        "details": {
+            "E": 32,
+            "I": 31,
+            "S": 38,
+            "N": 43,
+            "T": 37,
+            "F": 32,
+            "J": 44,
+            "P": 22
+        },
+        "res": "ENTJ",
+        "Total cost: ": "0.231270 USD",
+        "Total tokens used:": "46254"
+    }
+}

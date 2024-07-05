@@ -123,7 +123,7 @@ if 'llms_mbti' not in st.session_state:
         overview_dict
     )
 
-    mbti_questions_dict = json.load(open('mbti_questions.json', 'r', encoding='utf8'))
+    mbti_questions_dict = json.load(open('/Users/yusiqi/Documents/Carnegie Mellon University/TakinAI/LLMs_MBTI/llms_mbti/mbti_questions.json', 'r', encoding='utf8'))
     convert_dict = {
         'MBTI测试题（93道）': [ele['question'] for ele in mbti_questions_dict.values()]
     }
